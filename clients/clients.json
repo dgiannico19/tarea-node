@@ -1,0 +1,16 @@
+{
+  "clientes": [
+    {
+      "id": "92969ba2-6828-436a-9792-be7c4f9fe981",
+      "user": "Esteban Quito",
+      "category": 7,
+      "address": "Jujuy 112"
+    },
+    {
+      "id": "d0c2a230-c94c-49bd-b03d-ead8d6eb6a2d",
+      "user": "Esteban Quito",
+      "category": 1,
+      "address": "Jujuy 112"
+    }
+  ]
+}
